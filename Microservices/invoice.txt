@@ -1,3 +1,0 @@
-Book: Java Programming
-Quantity: 2
-Total Price: $945.0
